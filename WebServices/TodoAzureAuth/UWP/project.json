@@ -1,7 +1,7 @@
-﻿{
+{
   "dependencies": {
     "Microsoft.Azure.Mobile.Client": "4.0.2",
-    "Xamarin.Forms": "2.4.0.282"
+    "Xamarin.Forms": "2.5.0.121934"
   },
   "frameworks": {
     "uap10.0.10240": {}
